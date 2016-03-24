@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+d:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+  OpenCVML.vcxproj -> C:\Users\martin_yeh\Documents\Visual Studio 2015\Projects\OpenCVML\Debug\OpenCVML.exe
+  OpenCVML.vcxproj -> C:\Users\martin_yeh\Documents\Visual Studio 2015\Projects\OpenCVML\Debug\OpenCVML.pdb (Partial PDB)
